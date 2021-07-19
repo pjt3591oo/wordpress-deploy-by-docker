@@ -1,5 +1,7 @@
 # docker로 wordpress 배포하기 예제
 
+해당 글은 [블로그](https://blog.naver.com/pjt3591oo/222437031022) 샘플코드 입니다.
+
 * cli이용하여 컨테이너 띄우기
 * docker-compose 이용하여 컨테이너 자동화
 
